@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Hummingbird/Scenes/Splash Screen.unity
+    guid: 30b90198d997aa346b8fe5eafd5519c8
+  - enabled: 1
+    path: Assets/Hummingbird/Scenes/SplashScreen.unity
+    guid: 95ef2138d790356428e635ec6c86de29
+  - enabled: 1
+    path: Assets/Penguin Scenes/Penguins.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Hummingbird/Scenes/miniGame.unity
+    guid: 317bed5b85f264945b3d4417fef09ccc
+  m_configObjects: {}
